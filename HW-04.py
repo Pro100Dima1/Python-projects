@@ -1,6 +1,6 @@
-count_ticket = int(input())
+count_ticket = int(input("Введите количество билетов: "))
 
-age = int(input())
+age = int(input("Введите ваш возраст: "))
 
 if count_ticket < 3:
     if age < 18:
