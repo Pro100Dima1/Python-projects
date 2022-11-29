@@ -1,5 +1,5 @@
 count_ticket = int(input("Введите количество билетов: "))
-
+x = VITYA LUCHSHIY
 age = int(input("Введите ваш возраст: "))
 
 if count_ticket < 3:
